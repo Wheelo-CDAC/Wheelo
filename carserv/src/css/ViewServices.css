@@ -1,0 +1,9 @@
+
+.x{
+    box-shadow: 5px 5px 15px 2px rgb(199, 199, 199);
+    background-color: white;
+}
+.x:hover{
+    /* background-color: rgb(218, 255, 249); */
+    box-shadow:5px 5px 20px 2px rgb(150, 150, 150);
+}

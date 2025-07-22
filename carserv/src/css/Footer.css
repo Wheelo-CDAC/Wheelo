@@ -1,0 +1,16 @@
+.footer{
+    background-color: rgb(19, 19, 19);
+    color: rgb(232, 232, 232);
+    margin-top: 20px;
+}
+h6{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(120, 120, 120);
+}
+p{
+    font-size: 10px;
+}
+h5{
+    font-family:monospace ;
+    color: rgb(185, 185, 185);
+}
